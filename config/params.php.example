@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'adminEmail' => 'admin@example.com',
+
+    'social_base_uri' => '',// путь до s3n
+    'social_login' => '',// логин от s3n
+    'social_password' => '',// пароль от s3n
+];
